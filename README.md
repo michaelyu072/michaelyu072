@@ -22,7 +22,7 @@ Software engineer building scalable distributed systems and AI-augmented applica
 * 🤖 **AI**: LLMs, Agentic AI, Claude Code, Google Gemini
 * 📈 **Scale**: Systems supporting **7M+ daily transactions** and services handling **1,000 QPS**.
 * 🏆 **Certifications**: AWS Certified Solutions Architect – Associate · Google Cloud Associate Cloud Engineer
-* 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/michaelyu072/) · [Email](mailto:michaelyu072@gmail.com)
+* 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/michaelyu072/) · michaelyu072@gmail.com
 
 ---
 
