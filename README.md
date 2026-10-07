@@ -1,8 +1,8 @@
 # Hi 👋, I'm Michael
 
-### Software Engineer II | Backend Engineer | Cloud & AI
+### Software Engineer II @ Capital One | Cloud & AI
 
-Software engineer building scalable distributed systems and AI-augmented applications.
+Software engineer building scalable distributed systems
 
 ---
 
