@@ -1,4 +1,4 @@
-# Hi 👋, I'm Michael Yu
+# Hi 👋, I'm Michael
 
 ### Software Engineer II | Backend Engineer | Cloud & AI
 
@@ -6,7 +6,7 @@ Software engineer building scalable distributed systems and AI-augmented applica
 
 ---
 
-### 🤖 What I'm Currently Building
+### 🤖 Currently Building
 
 * 🖼️ **Agentic Wikimedia Commons Image Search** — LLM-powered natural-language image search using Google Cloud and Wikimedia APIs.
 * ♟️ **LLM-Augmented Chess Puzzle** — Stockfish + Gemini explanations across **600,000+ puzzles**.
