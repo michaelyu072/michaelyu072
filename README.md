@@ -8,8 +8,8 @@ Software engineer building scalable distributed systems
 
 ### 🤖 Currently Building
 
-* 🖼️ **Agentic Wikimedia Commons Image Search** — LLM-powered natural-language image search using Google Cloud and Wikimedia APIs.
-* ♟️ **LLM-Augmented Chess Puzzle** — Stockfish + Gemini explanations across **600,000+ puzzles**.
+* 🖼️ **Philosofeed** — Daily philosophy digest app, featuring philosopher chat and debate functionality.
+* ♟️ **LLM-Augmented Chess Puzzle** — Stockfish + Gemini explanations across **100,000+ puzzles**.
 
 ---
 
